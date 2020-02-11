@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "appOne": {
+      "name": "appOne",
+      "integrations": {
+        "cordova": {}
+      },
+      "type": "angular",
+      "root": "projects\\appOne"
+    }
+  },
+  "integrations": {
+    "cordova": {}
+  }
+}

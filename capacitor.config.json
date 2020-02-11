@@ -1,0 +1,8 @@
+{
+  "appId": "com.jpablos.appOne",
+  "appName": "appOne",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "projects\\appOne\\www",
+  "cordova": {}
+}
